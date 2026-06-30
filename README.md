@@ -142,9 +142,8 @@ Marcos Rogério da Silva
 
 Trade Marketing | Business Intelligence | Data Analytics
 
-GitHub: https://github.com/marcosrdevbr 
-
-LinkedIn: https://www.linkedin.com/in/marcos-rogerio-017923302/
+* GitHub: https://github.com/marcosrdevbr
+* LinkedIn: https://www.linkedin.com/in/marcos-rogerio-017923302/
 
 Feel free to connect or share feedback about this project.
 
