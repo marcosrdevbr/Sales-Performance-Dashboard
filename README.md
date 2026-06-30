@@ -1,5 +1,12 @@
 # 📊 Sales Performance Dashboard
 
+# 📊 Sales Performance Dashboard
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-02569B?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 ![Sales Performance Dashboard](Images/banner.png)
 
 ## 📌 Project Overview
