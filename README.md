@@ -94,6 +94,19 @@ The dashboard was designed to answer the following questions:
 
 ---
 
+## Skills Demonstrated
+
+- Data Analysis
+- Data Visualization
+- KPI Development
+- Business Intelligence
+- Dashboard Design
+- DAX Calculations
+- SQL Queries
+- Business Storytelling
+
+---
+
 ## 📂 Repository Structure
 
 ```text
