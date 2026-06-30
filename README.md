@@ -138,7 +138,9 @@ Throughout this project, I improved my skills in:
 
 ---
 
-Marcos Rogério da Silva
+# 👨‍💻 Author
+
+**Marcos Rogério da Silva**
 
 Trade Marketing | Business Intelligence | Data Analytics
 
