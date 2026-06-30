@@ -73,6 +73,17 @@ The dashboard was designed to answer the following questions:
 
 ---
 
+## 📈 Business Impact
+
+This dashboard enables decision-makers to:
+
+- Monitor sales performance in real time.
+- Identify high-performing products and regions.
+- Improve inventory and sales planning.
+- Support strategic business decisions through data.
+
+---
+
 ## 🚀 Strategic Recommendations
 
 - Focus investments on top-performing regions.
