@@ -122,6 +122,9 @@ Sales-Performance-Dashboard
 │   ├── banner.png
 │   └── dashboard_preview.png
 │
+├── SQL
+│   └── business_questions.txt
+│
 └── README.md
 ```
 
