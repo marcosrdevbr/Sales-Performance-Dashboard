@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard
 
-![Sales Performance Dashboard](Images/Banner.png)
+![Sales Performance Dashboard](Images/banner.png)
 
 ## 📌 Project Overview
 
